@@ -1,0 +1,22 @@
+---
+title: "Visual Exploration of Time Series in R"
+author: Anton Lebedevich
+output:
+  revealjs::revealjs_presentation:
+    theme: white
+    transition: fade
+    center: false
+    highlight: tango
+---
+
+# Problem domain
+
+some text description
+
+# SVD
+
+```{r}
+summary(cars)
+```
+
+# PCA
