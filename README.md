@@ -1,6 +1,6 @@
 # Visual Exploration of Time Series in R
 
-[Presentation](TODO) based on articles from my [blog](http://mabrek.github.io/):
+[Presentation](http://mabrek.github.io/r-timeseries-presentation-2015) based on articles from my [blog](http://mabrek.github.io/):
 
 - [Exploring Performance Monitoring Data with Multivariate Tools: SVD and PCA](http://mabrek.github.io/blog/multivariate-svd-pca)
 - [Visual Exploration of Performance Monitoring Time Series with MDS and t-SNE](http://mabrek.github.io/blog/multivariate-mds-tsne)
